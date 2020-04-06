@@ -1,0 +1,517 @@
+package base;
+
+public class TestAlessio {
+
+	public static void main(String[] args) {
+		
+		//a
+		//a/
+		//a
+		//
+		//ergarvaerfv
+		//a
+				//a/
+				//a
+				//
+				//ergarvaerfv
+		
+		//a
+				//a/
+				//a
+				//
+				//ergarvaerfv
+		//a
+				//a/
+				//a
+				//
+				//ergarvaerfv
+		//a
+				//a/
+				//a
+				//
+				//ergarvaerfv
+		//a
+				//a/
+				//a
+				//
+				//ergarvaerfv
+		//a
+				//a/
+				//a
+				//
+				//ergarvaerfv
+		//a
+				//a/
+				//a
+				//
+				//ergarvaerfv
+		//a
+				//a/
+				//a
+				//
+				//ergarvaerfv
+		//a
+				//a/
+				//a
+				//
+				//ergarvaerfv
+		//a
+				//a/
+				//a
+				//
+				//ergarvaerfv
+		//a
+				//a/
+				//a
+				//
+				//ergarvaerfv
+		//a
+				//a/
+				//a
+				//
+				//ergarvaerfv
+		//a
+		//a/
+		//a
+		//
+		//ergarvaerfv
+//a
+		//a/
+		//a
+		//
+		//ergarvaerfv
+//a
+		//a/
+		//a
+		//
+		//ergarvaerfv
+//a
+		//a/
+		//a
+		//
+		//ergarvaerfv
+		//a
+		//a/
+		//a
+		//
+		//ergarvaerfv
+//a
+		//a/
+		//a
+		//
+		//ergarvaerfv
+//a
+		//a/
+		//a
+		//
+		//ergarvaerfv
+//a
+		//a/
+		//a
+		//
+		//ergarvaerfv
+		//a
+		//a/
+		//a
+		//
+		//ergarvaerfv
+//a
+		//a/
+		//a
+		//
+		//ergarvaerfv
+//a
+		//a/
+		//a
+		//
+		//ergarvaerfv
+//a
+		//a/
+		//a
+		//
+		//ergarvaerfv
+		//a
+		//a/
+		//a
+		//
+		//ergarvaerfv
+//a
+		//a/
+		//a
+		//
+		//ergarvaerfv
+//a
+		//a/
+		//a
+		//
+		//ergarvaerfv
+//a
+		//a/
+		//a
+		//
+		//ergarvaerfv
+		//a
+		//a/
+		//a
+		//
+		//ergarvaerfv
+//a
+		//a/
+		//a
+		//
+		//ergarvaerfv
+//a
+		//a/
+		//a
+		//
+		//ergarvaerfv
+//a
+		//a/
+		//a
+		//
+		//ergarvaerfv
+		//a
+		//a/
+		//a
+		//
+		//ergarvaerfv
+//a
+		//a/
+		//a
+		//
+		//ergarvaerfv
+//a
+		//a/
+		//a
+		//
+		//ergarvaerfv
+//a
+		//a/
+		//a
+		//
+		//ergarvaerfv
+		//a
+		//a/
+		//a
+		//
+		//ergarvaerfv
+//a
+		//a/
+		//a
+		//
+		//ergarvaerfv
+//a
+		//a/
+		//a
+		//
+		//ergarvaerfv
+//a
+		//a/
+		//a
+		//
+		//ergarvaerfv
+		//a
+		//a/
+		//a
+		//
+		//ergarvaerfv
+//a
+		//a/
+		//a
+		//
+		//ergarvaerfv
+//a
+		//a/
+		//a
+		//
+		//ergarvaerfv
+//a
+		//a/
+		//a
+		//
+		//ergarvaerfv
+		//a
+		//a/
+		//a
+		//
+		//ergarvaerfv
+//a
+		//a/
+		//a
+		//
+		//ergarvaerfv
+//a
+		//a/
+		//a
+		//
+		//ergarvaerfv
+//a
+		//a/
+		//a
+		//
+		//ergarvaerfv
+		//a
+		//a/
+		//a
+		//
+		//ergarvaerfv
+//a
+		//a/
+		//a
+		//
+		//ergarvaerfv
+//a
+		//a/
+		//a
+		//
+		//ergarvaerfv
+//a
+		//a/
+		//a
+		//
+		//ergarvaerfv
+		//a
+		//a/
+		//a
+		//
+		//ergarvaerfv
+//a
+		//a/
+		//a
+		//
+		//ergarvaerfv
+//a
+		//a/
+		//a
+		//
+		//ergarvaerfv
+//a
+		//a/
+		//a
+		//
+		//ergarvaerfv
+		//a
+		//a/
+		//a
+		//
+		//ergarvaerfv
+//a
+		//a/
+		//a
+		//
+		//ergarvaerfv
+//a
+		//a/
+		//a
+		//
+		//ergarvaerfv
+//a
+		//a/
+		//a
+		//
+		//ergarvaerfv
+		//a
+		//a/
+		//a
+		//
+		//ergarvaerfv
+//a
+		//a/
+		//a
+		//
+		//ergarvaerfv
+//a
+		//a/
+		//a
+		//
+		//ergarvaerfv
+//a
+		//a/
+		//a
+		//
+		//ergarvaerfv
+		//a
+		//a/
+		//a
+		//
+		//ergarvaerfv
+//a
+		//a/
+		//a
+		//
+		//ergarvaerfv
+//a
+		//a/
+		//a
+		//
+		//ergarvaerfv
+//a
+		//a/
+		//a
+		//
+		//ergarvaerfv
+		//a
+		//a/
+		//a
+		//
+		//ergarvaerfv
+//a
+		//a/
+		//a
+		//
+		//ergarvaerfv
+//a
+		//a/
+		//a
+		//
+		//ergarvaerfv
+//a
+		//a/
+		//a
+		//
+		//ergarvaerfv
+		//a
+		//a/
+		//a
+		//
+		//ergarvaerfv
+//a
+		//a/
+		//a
+		//
+		//ergarvaerfv
+//a
+		//a/
+		//a
+		//
+		//ergarvaerfv
+//a
+		//a/
+		//a
+		//
+		//ergarvaerfv
+		//a
+		//a/
+		//a
+		//
+		//ergarvaerfv
+//a
+		//a/
+		//a
+		//
+		//ergarvaerfv
+//a
+		//a/
+		//a
+		//
+		//ergarvaerfv
+//a
+		//a/
+		//a
+		//
+		//ergarvaerfv
+		//a
+		//a/
+		//a
+		//
+		//ergarvaerfv
+//a
+		//a/
+		//a
+		//
+		//ergarvaerfv
+//a
+		//a/
+		//a
+		//
+		//ergarvaerfv
+//a
+		//a/
+		//a
+		//
+		//ergarvaerfv
+		//a
+		//a/
+		//a
+		//
+		//ergarvaerfv
+//a
+		//a/
+		//a
+		//
+		//ergarvaerfv
+//a
+		//a/
+		//a
+		//
+		//ergarvaerfv
+//a
+		//a/
+		//a
+		//
+		//ergarvaerfv
+		//a
+		//a/
+		//a
+		//
+		//ergarvaerfv
+//a
+		//a/
+		//a
+		//
+		//ergarvaerfv
+//a
+		//a/
+		//a
+		//
+		//ergarvaerfv
+//a
+		//a/
+		//a
+		//
+		//ergarvaerfv
+		//a
+		//a/
+		//a
+		//
+		//ergarvaerfv
+//a
+		//a/
+		//a
+		//
+		//ergarvaerfv
+//a
+		//a/
+		//a
+		//
+		//ergarvaerfv
+//a
+		//a/
+		//a
+		//
+		//ergarvaerfv
+		//a
+		//a/
+		//a
+		//
+		//ergarvaerfv
+//a
+		//a/
+		//a
+		//
+		//ergarvaerfv
+//a
+		//a/
+		//a
+		//
+		//ergarvaerfv
+//a
+		//a/
+		//a
+		//
+		//ergarvaerfv
+		
+
+	}
+
+}
