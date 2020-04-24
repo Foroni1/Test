@@ -7,7 +7,7 @@ public class ExponentialFunction implements UnivariateFunction {
 	private double a;    
     
     public ExponentialFunction(double a) {
-    	this.a = a;
+    	this.a = a; 
     }
     
 	@Override
